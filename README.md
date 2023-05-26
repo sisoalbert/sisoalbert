@@ -1,16 +1,33 @@
-### Hi there 👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there (Molweni)👋🏻, I'm Siso! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<!-- <h2> Hi, I'm Siso! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
+<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="https://www.quicket.co.za/">Quicket</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://questerstudios.com/">Quester Studios</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**sisoalbert/sisoalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: siso](https://img.shields.io/badge/-siso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siso-albert-ngqolosi-99a675117/)](https://www.linkedin.com/in/siso-albert-ngqolosi-99a675117/)
+[![GitHub sisoalbert](https://img.shields.io/github/followers/siso?label=follow&style=social)](https://github.com/sisoalbert)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const siso = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, ES6, HTML, CSS,],
+  tools: [React Native, React, Redux, React Navigation, Eslint, Prettier, Error Boundry API, Sentry, Jest, React Native Testing Library, Dettox, Appium, Fastlane, Github Action, Git],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react native and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+- 🔭 I’m currently working on [Buyly App](https://getbuyly.web.app/)
+- 🌱 I’m currently learning Kotlin, SwiftUI and Tensorflowjs
+- 👯 I’m looking to collaborate on cinnamonslice
+- 🤔 I’m looking for help with Tensorflowjs and computer vision
+- 💬 Ask me about React Native, React
+- 📫 How to reach me: linkedIn or twitter
+- ⚡ Fun fact: [youtube.com/@questerstudio](youtube.com/@questerstudio)
