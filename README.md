@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there (Molweni)👋🏻, I'm Siso! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <!-- <h2> Hi, I'm Siso! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.quicket.co.za/">Quicket</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://questerstudios.com/">Quester Studios</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://www.quicket.co.za/">Quicket</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://questerstudios.com/">Quester Studios</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: siso](https://img.shields.io/badge/-siso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siso-albert-ngqolosi-99a675117/)](https://www.linkedin.com/in/siso-albert-ngqolosi-99a675117/)
