@@ -25,7 +25,7 @@ const siso = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 - 🔭 I’m currently working on [Buyly App](https://getbuyly.web.app/)
-- 🌱 I’m currently learning Kotlin, SwiftUI and Tensorflowjs
+- 🌱 I’m currently learning [Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-before-you-begin), [SwiftUI](https://developer.apple.com/tutorials/app-dev-training) and [Tensorflowjs](https://www.tensorflow.org/js/tutorials)
 - 👯 I’m looking to collaborate on cinnamonslice
 - 🤔 I’m looking for help with Tensorflowjs and computer vision
 - 💬 Ask me about React Native, React
